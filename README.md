@@ -2,12 +2,10 @@
 
 I'm only here on GitHub for personal projects and stuff I contribute to. So please don't expect anything special... 🦄
 
-<div>
-  <a href="https://github.com/MrReSc/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrReSc&layout=compact&theme=radical" align="center"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MrReSc/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrReSc&show_icons=true&theme=radical" align="center"/>
-  </a>
-</div>
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrReSc&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrReSc&show_icons=true&layout=compact&theme=radical"/>
+</p>
